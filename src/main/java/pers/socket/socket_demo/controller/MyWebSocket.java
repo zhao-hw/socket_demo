@@ -68,8 +68,4 @@ public class MyWebSocket {
 
     }
 
-    public void sendMessageToAll() {
-
-    }
-
 }
